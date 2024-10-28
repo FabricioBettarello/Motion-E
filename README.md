@@ -1,10 +1,10 @@
-# Mahindra Racing Website
+# Motion E Website
 
-Este é o repositório do website da Mahindra Racing, desenvolvido utilizando React e Vite.
+Este é o repositório do website da Motion E, desenvolvido utilizando React e Vite.
 
 ## Visão Geral
 
-O website da Mahindra Racing foi criado para fornecer informações sobre a equipe de corrida, seus carros, notícias e eventos. O projeto foi desenvolvido com foco em desempenho e experiência do usuário.
+O website da Motion E foi criado para fornecer informações sobre a equipe de corrida, seus carros, notícias e eventos. O projeto foi desenvolvido com foco em desempenho e experiência do usuário.
 
 ## Equipe
 - Fabricio Bettarello
@@ -33,12 +33,12 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/fabriciobettarello/Mahindra.git
+git clone https://github.com/fabriciobettarello/motione.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd mahindra_react
+cd motione
 ```
 
 3. Instale as dependências:
