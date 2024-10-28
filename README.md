@@ -33,12 +33,12 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/fabriciobettarello/motione.git
+git clone https://github.com/fabriciobettarello/Motion-E.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd motione
+cd Motion-E
 ```
 
 3. Instale as dependências:
