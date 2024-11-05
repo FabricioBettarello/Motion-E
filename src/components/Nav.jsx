@@ -22,7 +22,6 @@ function Nav() {
             <header>
                 <div className="navbar" id="myNavbar">
                     <a href="/">Inicio</a>
-                    <a href="/ticket">Comprar ingresso</a>
                     <a href="/mascote">Motion IA</a>
                     <a href="javascript:void(0);" className="icon" onClick={NavBar}>
                         <b><i className="bi bi-list"></i></b>
